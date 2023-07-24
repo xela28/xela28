@@ -26,3 +26,13 @@ To run the interview simulator locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/interview-simulator.git
 cd interview-simulator
+# Initialize the Git repository
+git init
+
+# Add all the files to the staging area
+git add .
+
+# Commit the changes with a descriptive message
+git commit -m "Initial commit"
+
+# Now, try to publish your project again using the hosting service of your choice.
